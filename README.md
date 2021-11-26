@@ -29,8 +29,9 @@ Bem vindo ao Mundo da Mari!!
   <a href="https://instagram.com/mamariana_cristina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href="https://discord.gg/3D6vXQxE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mari.unicap27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-oliveira-b84a49211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/f1dd9d0c5e39f732d1a0dd85d5802151.gif" width="150" height="150" border="0" alt="https://picasion.com/" />
-  
+  <a href="https://www.linkedin.com/in/mariana-oliveira-b84a49211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    <a href="https://picasion.com/">
+ <img src="https://i.picasion.com/pic91/f1dd9d0c5e39f732d1a0dd85d5802151.gif" height="200" width="200" align="right" alt="Nathy-yoda" />
+ 
  
  ![Snake animation](https://github.com/mamarianaoliveira/mamarianaoliveira/blob/output/github-contribution-grid-snake.svg)
  
