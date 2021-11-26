@@ -3,7 +3,7 @@ Bem vindo ao Mundo da Mari!!
 - 🌱 Estudando Python - IA -Robótica
 - 🍒 Aprendendo a programar Raspberry (Python)
 - ♾ Aprendendo a programar Arduino ( C++)
-- 😄 Pronouns: ela/dela
+
 ##
 
 <div align="center"> <a href="https://github.com/mamarianaoliveira"> 
