@@ -8,8 +8,9 @@ Bem vindo ao Mundo da Mari!!
 
 <div align="center"> <a href="https://github.com/mamarianaoliveira"> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mamarianaoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamarianaoliveira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MaMarianaOliveira&layout=compact&langs_count=7&theme=dracula" />
+ 
+ </div>
  
   ##
   
