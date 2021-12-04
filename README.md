@@ -17,7 +17,7 @@ Bem vindo ao Mundo da Mari!!
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src= "https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
+    
    
    
    </div>
