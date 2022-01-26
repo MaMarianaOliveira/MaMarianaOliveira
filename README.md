@@ -1,4 +1,4 @@
-Bem vindo ao Mundo da Mari!!
+Bem vindo ao Mundo da Marii!!
 
 - <img height="20em" src="https://icongr.am/fontawesome/android.svg?size=128&color=ffffff"/> Estudando Python - IA -Robótica
 - 🍒 Aprendendo a programar Raspberry (Python)
