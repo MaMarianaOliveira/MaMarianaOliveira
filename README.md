@@ -1,8 +1,21 @@
 Bem vindo ao Mundo da Marii!!
 
+Sou estudante de Engenharia da Complexidade  <img height="20em" src="https://icongr.am/octicons/hubot.svg?size=128&color=bc4eca">
+
 - <img height="20em" src="https://icongr.am/fontawesome/android.svg?size=128&color=ffffff"/> Estudando Python - IA -Robótica Maker
-- 🍒 Aprendendo a programar Raspberry (Python)
-- ♾ Aprendendo a programar Arduino ( C++)
+- 🍒 Aprendendo a programar Raspberry Pi - Estou usando a 4B e Zero W (Python)
+- ♾ Aprendendo a programar Arduino - Estou usando a UnBlack da Robocore equivalente ao Arduino UNO( C++)
+
+_________________________
+
+Welcome to Marii's World!  
+
+I am a student of Complexity Engineering   <img height="20em" src="https://icongr.am/octicons/hubot.svg?size=128&color=bc4eca">
+
+ - <img height="20em" src="https://icongr.am/fontawesome/android.svg?size=128&color=ffffff"/> Studying Python - AI -Robotics Maker
+- 🍒 Learning to program Raspberry Pi - I'm using the 4B and Zero W (Python)
+- ♾ Learning to program Arduino - I'm using Robocore's UnBlack equivalent to the Arduino UNO( C++)
+ 
 
 ##
 
@@ -40,4 +53,10 @@ Bem vindo ao Mundo da Marii!!
  ![Snake animation](https://github.com/mamarianaoliveira/mamarianaoliveira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ 
+
+ 
+
+ 
 
