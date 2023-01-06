@@ -1,12 +1,3 @@
-Bem vindo ao Mundo da Marii!!
-
-Sou estudante de Engenharia da Complexidade  <img height="20em" src="https://icongr.am/octicons/hubot.svg?size=128&color=bc4eca">
-
-- <img height="20em" src="https://icongr.am/fontawesome/android.svg?size=128&color=ffffff"/> Estudando Python - IA -Robótica Maker
-- 🍒 Aprendendo a programar Raspberry Pi - Estou usando a 4B e Zero W (Python)
-- ♾ Aprendendo a programar Arduino - Estou usando a UnBlack da Robocore equivalente ao Arduino UNO( C++)
-
-_________________________
 
 Welcome to Marii's World!  
 
@@ -45,7 +36,6 @@ I am a student of Complexity Engineering   <img height="20em" src="https://icong
   <a href = "mailto:mari.unicap27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-oliveira-b84a49211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    <a href="https://picasion.com/">
  <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/mamarianaoliveira/mamarianaoliveira"></a>
 </p>
  <img src="https://i.picasion.com/pic91/f1dd9d0c5e39f732d1a0dd85d5802151.gif" height="200" width="200" align="right" alt="Nathy-yoda" />
  
