@@ -1,52 +1,51 @@
-
-Welcome to Marii's World!  
-
-I am a student of Complexity Engineering   <img height="20em" src="https://icongr.am/octicons/hubot.svg?size=128&color=bc4eca">
-
- - <img height="20em" src="https://icongr.am/fontawesome/android.svg?size=128&color=ffffff"/> Studying Python - AI -Robotics Maker
-- 🍒 Learning to program Raspberry Pi - I'm using the 4B and Zero W (Python)
-- ♾ Learning to program Arduino - I'm using Robocore's UnBlack equivalent to the Arduino UNO( C++)
- 
-
-##
-
-<div align="center"> <a href="https://github.com/mamarianaoliveira"> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=mamarianaoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamarianaoliveira&layout=compact&langs_count=7&theme=dracula" />
- 
- </div>
- 
-  ##
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
-    
-   
-   
-   </div>
-  
-  
-  ##
-  
-<div>
-
-  <a href="https://www.instagram.com/mamariana_cristina/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href="https://discord.gg/3D6vXQxE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mari.unicap27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-oliveira-b84a49211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    <a href="https://picasion.com/">
- <p align='center'>
-</p>
- <img src="https://i.picasion.com/pic91/f1dd9d0c5e39f732d1a0dd85d5802151.gif" height="200" width="200" align="right" alt="Nathy-yoda" />
- 
- 
- ![Snake animation](https://github.com/mamarianaoliveira/mamarianaoliveira/blob/output/github-contribution-grid-snake.svg)
- 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC4ECA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mariana+Oliveira!;Complexity+Engineering+Student;Embedded+Systems+%26+IoT+Developer;Building+Quantum-Safe+Open+RAN" alt="Typing SVG" />
 </div>
- 
- 
 
- 
+<h3 align="center">🚀 Explorando a interseção entre Hardware, Software e Segurança</h3>
 
- 
+<p align="center">
+   Estudante de Engenharia da Complexidade focada em Sistemas Embarcados, FPGA e Criptografia Pós-Quântica. Atualmente desenvolvendo soluções de aceleração de hardware para telecomunicações (Open RAN).
+</p>
+
+---
+
+### 🛠️ Arsenal Técnico
+
+<div align="center">
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Verilog" src="https://img.shields.io/badge/Verilog-B02929?style=for-the-badge&logo=intel&logoColor=white" />
+  
+  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_MKR-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img align="center" alt="FPGA" src="https://img.shields.io/badge/FPGA-Intel_Cyclone-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+<br/>
+
+### 🔭 Projeto em Destaque: Open RAN PQC Accelerator
+Estou desenvolvendo uma **Prova de Conceito (PoC)** de aceleração de hardware para criptografia pós-quântica em redes 5G.
+* **Hardware:** Arduino MKR Vidor 4000 (FPGA + ARM)
+* **Foco:** Mitigação de latência em algoritmos SHA-3 (NIST)
+* **Stack:** C++, Verilog, Intel Quartus Prime.
+
+---
+
+
+<div align="center"> 
+  <a href="mailto:mari.unicap27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mariana-oliveira-b84a49211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/mamariana_cristina">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
