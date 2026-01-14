@@ -16,6 +16,11 @@
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Verilog" src="https://img.shields.io/badge/Verilog-B02929?style=for-the-badge&logo=intel&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img align="center" src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+
+  <img align="center"  src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+
   
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_MKR-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
